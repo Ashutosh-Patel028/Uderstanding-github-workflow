@@ -1,2 +1,2 @@
-# Uderstanding-github-workflow
-Understanding github workflow + linting
+# Understanding-GitHub-workflow
+Understanding GitHub workflow + linting
